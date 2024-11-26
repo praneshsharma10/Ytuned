@@ -1,6 +1,6 @@
 # Shell Based Audio Downloader Script
 
-A Bash script to download audio from YouTube videos in MP3 format using `yt-dlp`. It also allows you to add metadata (e.g., title and artist) to the audio file using `ffmpeg`.
+A Bash script to download audio from YouTube videos in MP3 format using `yt-dlp`.
 
 ## Features
 
